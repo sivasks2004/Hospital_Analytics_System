@@ -229,20 +229,6 @@ Import the provided `.sql` file into MySQL Workbench.
 
 Run analytical queries and generate reports.
 
----
-
-#  ER Diagram
-
-Add your ER Diagram image here:
-
-```bash
-HAS_Model.png
-```
-
-
-```
-
----
 
 #  Author
 
