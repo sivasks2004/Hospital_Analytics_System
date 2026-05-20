@@ -236,13 +236,10 @@ Run analytical queries and generate reports.
 Add your ER Diagram image here:
 
 ```bash
-/project-images/ER_Diagram.png
+HAS_Model.png
 ```
 
-Example:
 
-```markdown
-![ER Diagram](project-images/ER_Diagram.png)
 ```
 
 ---
